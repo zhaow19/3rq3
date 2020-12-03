@@ -18,6 +18,8 @@ class AccountInfo:
 
     def Account_info(self, contacinfo, address):
         return None
+    def Address(self,tag):
+        return None
 
 class OrderHistory:
     def Access_Past_Order(self):
